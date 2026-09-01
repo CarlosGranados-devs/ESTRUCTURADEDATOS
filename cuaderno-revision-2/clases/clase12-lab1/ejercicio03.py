@@ -1,0 +1,2 @@
+# Imprime el mensaje directo usando f-strings e input() anidados sin variables adicionales
+print(f"Hola, Bienvenido {input('Ingresa tus Nombres: ')} {input('Ingrese tus Apellidos: ')} gracias por registrarte a la materia de: {input('Ingrese la Materia: ')}, tu usuario para ingresar es: {input('Ingrese su Carnet: ')}@univo.edu.sv")
